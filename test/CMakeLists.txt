@@ -42,6 +42,7 @@ set(TESTS_NAMES
     "kasumi"
     "md4"
     "md5"
+    "seed"
     "shacal"
     "shacal2")
 
